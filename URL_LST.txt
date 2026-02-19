@@ -1,23 +1,23 @@
-    --------------------------------------------------------
-    I  Home : news updates     			       I
-    --------------------------------------------------------
-    |                                                      |
-    |    1.6 : creating first desktop and taskbar like     |
-    |    - Windows and adding Framework 4.0                |
-    |    - and others oldest version. follow more=6        |
-    |                                                      |
-    |    1.7 : fix bug in desktop and taskbar.             |
-    |    follow more=7                                     |
-    |                                                      |
-    |    1.8 : adding package BitLocker, dotnet 8.0        |
-    |    - and Firefox. follow more=8                      |
-    |                                                      |
-    |    1.9 : BIG update : adding packages Windows 11 SSU |
-    |    - and adding others functionality.                |
-    |    follow more=9                                     |
-    |                                                      |
-    --------------------------------------------------------
-    | 1.9 = 1					       |
-    | 1.8 = 2					       |
-    | /./ = /					       |
-    --------------------------------------------------------
+                 --------------------------------------------------------
+                I  Home : news updates     			           I
+                --------------------------------------------------------
+                |                                                      |
+                |    1.6 : creating first desktop and taskbar like     |
+                |    - Windows and adding Framework 4.0                |
+                |    - and others oldest version. follow more=6        |
+                |                                                      |
+                |    1.7 : fix bug in desktop and taskbar.             |
+                |    follow more=7                                     |
+                |                                                      |
+                |    1.8 : adding package BitLocker, dotnet 8.0        |
+                |    - and Firefox. follow more=8                      |
+                |                                                      |
+                |    1.9 : BIG update : adding packages Windows 11 SSU |
+                |    - and adding others functionality.                |
+                |    follow more=9                                     |
+                |                                                      |
+                --------------------------------------------------------
+                | 1.9 = 1					           |
+                | 1.8 = 2					           |
+                | /./ = /					           |
+                --------------------------------------------------------
