@@ -1,1 +1,1 @@
-choice /c 12
+choice /c 123456789
