@@ -1,1 +1,0 @@
-choice /c 12 /m "1=install, 2=exit"
