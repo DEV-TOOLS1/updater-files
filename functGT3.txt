@@ -1,0 +1,1 @@
+          1.8 : adding package BitLocker, dotnet 8.0 and Firefox.
